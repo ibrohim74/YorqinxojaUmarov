@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b182d19-07aa-414c-bba5-e2319011cd3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/amore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/birkunlik.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/dost.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/gulchehra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/iLoveYou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/jana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/kansert19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/moliyaviy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/qizim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/qorakoz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/yomgir.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yorqin/musicPoster/zubayda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yorqin/logoPlato-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yorqin/plato.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/alice-merton.1d92df6ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/alice-merton.1d92df6ab.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/yorqin xoja umarov/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/Desktop/yorqinxojaUmarov/images/yorqin",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\yorqinxojaUmarov\images\yorqin" />
       <recent name="C:\Users\user\Desktop\yorqin xoja umarov\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -78,7 +68,8 @@
       <workItem from="1661962841029" duration="1369000" />
       <workItem from="1661964425476" duration="514000" />
       <workItem from="1661965929826" duration="13000" />
-      <workItem from="1661971084931" duration="18375000" />
+      <workItem from="1661971084931" duration="19273000" />
+      <workItem from="1662015952044" duration="3765000" />
     </task>
     <servers />
   </component>
